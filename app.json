@@ -1,7 +1,7 @@
 {
   "name": "SMD",
   "description": "Javascript WhatsApp bot powered by Mr Shaban",
-  "keywords": ["SHABAN-MD", "WhatsApp Bot", "SMD"],
+  "keywords": ["SHADOW-MD", "WhatsApp Bot", "SMD"],
   "success_url": "/",
 
   "stack": "heroku-24",
