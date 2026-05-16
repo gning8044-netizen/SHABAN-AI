@@ -1,7 +1,7 @@
 {
-  "name": "SHABAN-AI",
+  "name": "SHADOW-TECH",
   "version": "V.5",
-  "description": "WHATSAPP BOT CREATED BY MR SHABAN",
+  "description": "WHATSAPP BOT CREATED BY MR SHADOW TECH",
   "main": "index.js",
   "scripts": {
     "start": "pm2 start index.js --deep-monitoring --attach --name SHABAN-AI",
